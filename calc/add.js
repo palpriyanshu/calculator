@@ -1,5 +1,5 @@
 const add = function(firstNo, secondNo) {
-  return firstNo + secondNo;
+  return 'kyu bataye';
 };
 
 const sub = function(firstNo, secondNo) {
