@@ -3,3 +3,7 @@ const multiplication = function(a, b) {
   const d = b;
   return c * d;
 };
+
+const sqr = function(a) {
+  return multiplication(a, a);
+};
