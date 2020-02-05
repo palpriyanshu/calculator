@@ -5,5 +5,5 @@ const multiplication = function(a, b) {
 };
 
 const sqr = function(a) {
-  return multiplication(a, a);
+  return a * a;
 };
