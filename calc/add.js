@@ -1,9 +1,7 @@
-const add = function(a, b) {
-  c = a;
-  d = b;
-  return c + d;
+const add = function(firstNo, secondNo) {
+  return firstNo + secondNo;
 };
 
-const sub = (a, b) => {
-  return a - b;
+const sub = function(firstNo, secondNo) {
+  return firstNo - secondNo;
 };
