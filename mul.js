@@ -4,6 +4,4 @@ const multiplication = function(a, b) {
   return c * d;
 };
 
-const sqr = function(a) {
-  return multiplication(a, a);
-};
+module.exports = multiplication;
