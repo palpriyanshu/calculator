@@ -13,4 +13,4 @@ const main = function() {
 
 main();
 
-module.exports = add;
+module.exports = {add, sub};
