@@ -1,3 +1,5 @@
 const multiplication = function(a, b) {
-  return a * b;
+  const c = a;
+  const d = b;
+  return c * d;
 };
