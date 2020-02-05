@@ -16,4 +16,4 @@ const main = function(num1, num2, fn) {
 
 main(...process.argv.slice(2));
 
-module.exports = add;
+module.exports = {add, sub};
