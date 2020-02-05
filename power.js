@@ -1,7 +1,7 @@
 const multiplication = require('./mul');
 
 const sqr = function(a) {
-  return multiplication(a, a);
+  return a * a;
 };
 
 const cube = function(a) {
