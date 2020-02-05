@@ -5,5 +5,5 @@ const sqr = function(a) {
 };
 
 const cube = function(a) {
-  return a * a * a;
+  return a ** 3;
 };
