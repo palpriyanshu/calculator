@@ -1,5 +1,6 @@
 const assert = require('assert');
-const {add, sub} = require('../calc/add.js');
+const add = require('../calc/add.js');
+const sub = require('../calc/sub.js');
 
 describe('add', function() {
   it('should add two num', function() {
