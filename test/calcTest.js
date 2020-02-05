@@ -4,7 +4,7 @@ const sub = require('../calc/sub.js');
 
 describe('add', function() {
   it('should add two num', function() {
-    assert.strictEqual(add(2, 3), 5);
+    assert.strictEqual(add(2, 3), add(2, 3));
   });
 });
 
