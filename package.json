@@ -7,7 +7,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nyc mocha && echo \"Error: no test specified\" && exit 1",
+    "start": "node calc/add.js"
   },
   "repository": {
     "type": "git",
