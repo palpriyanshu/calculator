@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/palpriyanshu/calculator#readme",
   "devDependencies": {
-    "mocha": "^7.0.1"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "eslint": "^6.8.0"
